@@ -98,7 +98,7 @@ public class Logic implements Runnable{
     public void run() {
         List<incoming_url> lis=new ArrayList<>();
         lis.add(new incoming_url("www.google.com"));
-        lis.add(new incoming_url("www.pornhub.com"));
+        lis.add(new incoming_url("www.myntra.com"));
 
 
         int a= rand.nextInt(2);
